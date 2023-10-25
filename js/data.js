@@ -11,7 +11,8 @@ export let data = {
         "https://media.tenor.com/vvrWNMI5AXMAAAAM/loona-vivi.gif",
         "https://media.tenor.com/kH3egE9MUP4AAAAC/loona-hihigh.gif",
         "https://media.tenor.com/v1EIBEqO5z4AAAAd/yves-loona.gif",
-        "https://gifdb.com/images/high/shocked-face-chuu-loona-3fp2ajdmn1kwr4fr.gif"
+        "https://gifdb.com/images/high/shocked-face-chuu-loona-3fp2ajdmn1kwr4fr.gif",
+        "https://media.tenor.com/bmrqHNbSgO0AAAAd/loona-funny.gif"
 
 
     ]
